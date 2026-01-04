@@ -1,6 +1,6 @@
 # Layouts e Tipografia com Tailwind + React
 
-## 🎯 Objetivos da Aula
+## 🎯 Objetivos
 
 - Explorar proporções da tela e colunas com Tailwind;
 - Trabalhar com `box-decoration-break`, `float`, `clear` e `z-index`;
